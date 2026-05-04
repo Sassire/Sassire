@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sassire
-- 👀 I’m interested in Django (Python) and Shiny (R) web applications.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on python and R projects.
+- 👀 I’m interested in Python and AI applications.
+- 🌱 I’m also engaged in economic research.
+- 💞️ I’m looking to collaborate on AI and economic research projects.
 - 📫 How to reach me: monsire.napo@gmail.com.
 
 <!---
